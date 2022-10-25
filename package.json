@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/RaihanHeggi/SRH-Belajar-NodeJS/issues"
   },
-  "homepage": "https://github.com/RaihanHeggi/SRH-Belajar-NodeJS#readme"
+  "homepage": "https://github.com/RaihanHeggi/SRH-Belajar-NodeJS#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
